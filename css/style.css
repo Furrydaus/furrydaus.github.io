@@ -1,0 +1,78 @@
+* {
+  border-radius: 0 !important;
+}
+
+.font-raleway {
+	font-family: 'Raleway', sans-serif;
+}
+
+.font-quicksand {
+    font-family: 'Quicksand', sans-serif;
+	font-style: medium;
+}
+
+.jumbomaintext {
+	padding-top: 180px;
+	padding-left: 20px;
+}
+
+.jumbotext {
+	padding-top: 3%;
+}
+
+.Alert-bottom{
+    position: fixed;
+    bottom: 1%;
+    left:15%;
+    width: 75%;
+}
+
+ul.nav a:hover { color: green!important; }
+
+.navbar {
+    -webkit-transition: all 1s ease-out;
+    -moz-transition: all 1s ease-out;
+    -o-transition: all 1s ease-out;
+    -ms-transition: all 1s ease-out;
+    transition: all 1s ease-out;
+}
+
+.jumbotron {
+	margin-bottom: 0px;
+}
+
+.navbar.scrolled {
+    background: rgb(100, 100, 100);
+    background: rgba(70, 70, 70, 1);
+}
+
+.navigation-text {
+    -webkit-transition: all 1s ease-out;
+    -moz-transition: all 1s ease-out;
+    -o-transition: all 1s ease-out;
+    -ms-transition: all 1s ease-out;
+    transition: all 1s ease-out;
+}
+
+.navigation-text {
+    color: white;
+}
+
+.navigation-text.scrolled {
+    color: whitesmoke;
+}
+
+.padding-0 {
+    padding: 0;
+}
+
+ul li.scrollTop {
+float: right;}
+
+#gradient
+{
+  width: 100%;
+  height: 520px;
+  padding: 0px;
+  margin: 0px;
+}
